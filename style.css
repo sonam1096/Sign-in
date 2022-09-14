@@ -1,0 +1,51 @@
+body{
+    background-image:url(./uni.jpg);
+
+}
+#header{
+    display: flex;
+    width:100%;
+    height:80px;
+    color:black;
+    background-color: white;
+    opacity:0.5;
+    
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-size:18px;
+    font-weight: bold;
+}
+a:hover{
+    background-color:pink;
+}
+.header-tag{
+     
+    margin-left:70%;
+    margin-top:35px;
+}
+.header-tag1{
+     
+
+    margin-left:40px;
+    margin-top:35px;
+}
+fieldset{
+    margin-left:30%;
+    margin-right:30%;
+    margin-top:50px;
+}
+label:hover{
+   background-color:pink;
+}
+legend{
+    color:white
+}
+label{
+    color:white;
+     
+}
+button:hover{
+    background-color:pink;
+}
